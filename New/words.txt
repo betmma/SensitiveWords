@@ -355,7 +355,7 @@ p缢
 习遇刺	
 习宇宙	
 习远千	
-匀远乎	
+习远乎	
 习远平	
 习远歪	
 习尤尤	
@@ -371,9 +371,9 @@ p缢
 习主席	
 羊习习	
 匀近平	
-匀近平	
+勻近平	
 匀近乎	
-匀近乎	
+勻近乎	
 总书记	*
 mr.习	
 罢免独裁	
@@ -468,7 +468,7 @@ capitalism习
 肺炎	bcst
 封城	b-cst
 新冠	b-cst
-训诚	
+训诫	
 疫情	b-cst
 疫区	b-cst
 吹哨人	b-cs
@@ -609,8 +609,7 @@ capitalism习
 中国没有自由	
 中国数字时代	
 自由亚洲电台	
-/论战	
-就此割席/	
+论战，就此割席
 人民币就是废纸	
 寻找林昭的灵魂	csi
 这个国家怎么了	
@@ -630,23 +629,71 @@ nm呢
 ㄉㄞ你娘	
 64	
 89	
+av	
+gc	
+gd	
+hk	
 kp	
 sb	
 xi	
+zg	
 abo	
+ass	
+awp	
 cnm	
 ccp	
 cpc	
+cnm	
+djj	
+dom	
+dxp	
+e\z\l	
+flg	
+gcd	
+gdx	
 gfw	
+ghs	
+gmd	
+gnm	t
+gtv	
+gwg	
+hhd	t
+hjt	
+hyb	
+jer	
+jib	
+jij	
 jin	
+jji	
 kkb	
-Ihz	
-Isd	
+lhz	
+lkq	
+lsd	
 lxb	
+lzs	
+mzd	
+ons	
+pla	
+ply	
+rnm	t
 scp	
 sub	
+tit	
+tmd	
+tnt	
 vpn	
-xjpdiao	
+wjb	
+whn	
+woc	
+wop	
+wqs	
+xdz	
+xis	
+xjp	
+zgl	
+zlj	
+zrj	
+diao	
 jinp	
 jpin	
 ping	
@@ -982,7 +1029,7 @@ p站
 中国致公党	
 中央档案馆	
 保密委员会办公室	
-官（船来往）乱（如麻）	下面几条带括号的是诗词原文中可删去或改为怢闘等占位符的内容
+官（船来往）乱（如麻）	下面这些带括号的是诗词原文中可删去或改为怢闘等占位符的内容
 贪吏得（因循）	
 国（家定两）税本（意在忧）人	
 （皆）以枉法论	
